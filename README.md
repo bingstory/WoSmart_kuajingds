@@ -83,7 +83,7 @@ WoSmart跨境电商系统可以对接国际通用支付方式，有效解决了�
 
 ###  跨境模式导图
 
-![](https://wosmart-1258844920.cos.ap-nanjing.myqcloud.com/readme/images/产品图片1.jpg)
+![输入图片说明](https://images.gitee.com/uploads/images/2020/0820/212520_8a07c4ac_2300737.png "图片2.png")
 
 ###  跨境电商特色功能(详细功能说明见功能列表文档)
 1、智能限购
@@ -131,7 +131,7 @@ WoSmart跨境电商系统可以对接国际通用支付方式，有效解决了�
 
 ·礼品卡   用于提取指定商品
 
-https://github.com/bingstory/WoSmart_kuajingds/blob/master/%E5%9B%BE%E7%89%873.png
+![输入图片说明](https://images.gitee.com/uploads/images/2020/0820/212609_ee565493_2300737.png "图片3.png")
 
 6、多种交易玩法
 
@@ -147,7 +147,7 @@ https://github.com/bingstory/WoSmart_kuajingds/blob/master/%E5%9B%BE%E7%89%873.p
 
 ·团购           通过团购促销，可倒计时显示，团购到达规定人数即可安排发货
 
-https://github.com/bingstory/WoSmart_kuajingds/blob/master/%E5%9B%BE%E7%89%874.png
+![输入图片说明](https://images.gitee.com/uploads/images/2020/0820/212639_856b5ba9_2300737.png "图片4.png")
 
 7、推广分享渠道
 
@@ -167,7 +167,7 @@ https://github.com/bingstory/WoSmart_kuajingds/blob/master/%E5%9B%BE%E7%89%874.p
 
 ·更多…
 
-https://github.com/bingstory/WoSmart_kuajingds/blob/master/%E5%9B%BE%E7%89%875.png
+![输入图片说明](https://images.gitee.com/uploads/images/2020/0820/212655_60f52e1e_2300737.png "图片5.png")
 
 8、精准的数据统计
 
@@ -191,16 +191,16 @@ https://github.com/bingstory/WoSmart_kuajingds/blob/master/%E5%9B%BE%E7%89%875.p
 
 ·访问购买率
 
-https://github.com/bingstory/WoSmart_kuajingds/blob/master/%E5%9B%BE%E7%89%876.png
+![输入图片说明](https://images.gitee.com/uploads/images/2020/0820/212707_8dc3a75f_2300737.png "图片6.png")
 
 #### 系统架构
 ### 一、开发语言和架构
 
-https://github.com/bingstory/WoSmart_kuajingds/blob/master/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20200820212816.png
+![输入图片说明](https://images.gitee.com/uploads/images/2020/0820/213112_424425db_2300737.png "微信图片_20200820212816.png")
 
 ### 二、开发语言和架构
 
-https://github.com/bingstory/WoSmart_kuajingds/blob/master/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20200820212851.png
+![输入图片说明](https://images.gitee.com/uploads/images/2020/0820/212902_f88c45c7_2300737.png "微信图片_20200820212851.png")
 
 ### 三、系统安全（坚固牢靠，抵御外部攻击）
 
