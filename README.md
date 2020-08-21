@@ -79,11 +79,11 @@ WoSmart跨境电商系统可以对接国际通用支付方式，有效解决了�
 
 ###  跨境电商流程
 
-https://github.com/bingstory/WoSmart_kuajingds/blob/master/%E5%9B%BE%E7%89%871.png
+![输入图片说明](https://images.gitee.com/uploads/images/2020/0820/212509_81399b3d_2300737.png "图片1.png")
 
 ###  跨境模式导图
 
-https://github.com/bingstory/WoSmart_kuajingds/blob/master/%E5%9B%BE%E7%89%872.png
+![](https://wosmart-1258844920.cos.ap-nanjing.myqcloud.com/readme/images/产品图片1.jpg)
 
 ###  跨境电商特色功能(详细功能说明见功能列表文档)
 1、智能限购
