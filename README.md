@@ -76,6 +76,10 @@ WoSmart跨境电商系统可以对接国际通用支付方式，有效解决了�
 
 跨境电商系统完全开源，方便二次开发及个性化定制，包含PC+WAP+微信+APP+小程序五个端口
 
+###  前端界面展示
+![输入图片说明](https://github.com/bingstory/WoSmart_kuajingds/blob/master/images/跨境电商产品截图1.png)
+![输入图片说明](https://github.com/bingstory/WoSmart_kuajingds/blob/master/images/跨境电商产品截图2.png)
+
 ###  跨境电商流程
 
 ![输入图片说明](https://images.gitee.com/uploads/images/2020/0820/212509_81399b3d_2300737.png "图片1.png")
@@ -233,15 +237,11 @@ WoSmart跨境电商系统可以对接国际通用支付方式，有效解决了�
 
 5.获取WoSmart技术社区会员权限，无限浏览付费技术文章；
 
-###  前端界面展示
-![输入图片说明](https://github.com/bingstory/WoSmart_kuajingds/blob/master/images/跨境电商产品截图1.jpg)
-![输入图片说明](https://github.com/bingstory/WoSmart_kuajingds/blob/master/images/跨境电商产品截图2.jpg)
-
 #### 特别声明
-您通过官方渠道获取到的WoSmart跨境电商源码仅供您个人或您公司在法律允许的范围内使用，如果您存在以下情形之一，您将会被踢出售后群并被取消WoSmartt跨境电商使用资格：
+您通过官方渠道获取到的WoSmart跨境电商源码仅供您个人或您公司在法律允许的范围内使用，如果您存在以下情形之一，您将会被踢出售后群并被取消WoSmart跨境电商使用资格：
 1. 将WoSmart跨境电商源码分享给他人。
 2. 将WoSmart跨境电商源码用于违法犯罪。
-3. 您可基于源码为您的客户做安装部署或二次开发，但禁止包含但不限于上传到互联网平台、线上或线下传播、转让、倒卖WoSmartt跨境电商源码等行为。
+3. 您可基于源码为您的客户做安装部署或二次开发，但禁止包含但不限于上传到互联网平台、线上或线下传播、转让、倒卖WoSmart跨境电商源码等行为。
 
 如果你存在以上任何行为，除承担上述后果外，还应当承担停止侵权、赔礼道歉、赔偿商誉损失、经济损失、维权成本等所有法律责任。
 
