@@ -13,7 +13,7 @@ WoShop跨境电商，包含APP端、小程序端、H5端，后端使用ThinkPHP5
 #### 官网
  
  [官网地址](https://www.s1107.com)
- | [WoSmart技术社区](http://a-b-c.com.cn)
+ | [WoShop技术社区](http://a-b-c.com.cn)
 
 #### 软件架构
 前端框架：uni-app,vue
@@ -231,7 +231,7 @@ WoShop跨境电商系统可以对接国际通用支付方式，有效解决了�
 
 2.QQ群售后服务；
 
-3.服务期限内无限次下载最新版本的WoSmart跨境电商；
+3.服务期限内无限次下载最新版本的WoShop跨境电商；
 
 4.获取开发文档、API文档、数据字典；
 
